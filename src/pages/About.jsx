@@ -143,7 +143,7 @@ export default function About() {
               letterSpacing: '0.15em',
               textTransform: 'uppercase',
             }}>
-              CS Student · Software Engineer · AI/ML Enthusiast
+              CS Student · Aspiring Software Engineer · AI/ML Enthusiast
             </div>
           </div>
 
